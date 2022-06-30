@@ -12,6 +12,7 @@ php bsq.php matrix-file.txt
 ## Example
 
 The file that contains the matrix:
+the first line being the number of rows in the matrix
 ```shell
 cat example_file
 
