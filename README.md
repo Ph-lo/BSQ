@@ -1,0 +1,2 @@
+# BSQ
+School project, algorithm
